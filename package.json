@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.6.2",
+    "axios-cookiejar-support": "^4.0.7",
+    "axios-debug-log": "^1.0.0",
+    "base64-js": "^1.5.1",
+    "jsdom": "^23.0.1",
+    "linkedin-private-api": "^1.1.2",
+    "node-fetch": "^3.2.6",
+    "tough-cookie": "^4.1.3"
+  }
+}
